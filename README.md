@@ -1,6 +1,7 @@
 # count_game
 
 A new Flutter project.
+this only for testing
 
 ## Getting Started
 
